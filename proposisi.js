@@ -8,7 +8,7 @@ let hasil=[100]
 
 const proses = () =>
 {
-	let term = `variabel p memiliki nilai: ${nilai_p}
+	let term = `Variabel p memiliki nilai: ${nilai_p}
 			<br>Sedangkan, variabel q memiliki nilai: ${nilai_q}`
 	document.getElementById("term").innerHTML=term;
 
